@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:glasses_try_on/try_on_screen.dart'; // Import TryOnScreen
+import 'package:glasses_tryon/try_on_screen.dart'; // Import TryOnScreen
 
 class MainScreen extends StatelessWidget {
   const MainScreen({super.key});

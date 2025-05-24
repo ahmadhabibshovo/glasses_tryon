@@ -11,8 +11,7 @@ class GlassesSelectionWidget extends StatelessWidget {
     // Placeholder data for glasses with image paths
     final List<Map<String, dynamic>> glassesList = [
       {'id': 1, 'name': 'Glasses 1', 'imagePath': 'assets/images/glasses1.png'},
-      {'id': 2, 'name': 'Glasses 2', 'imagePath': 'assets/images/glasses2.png'},
-      {'id': 3, 'name': 'Glasses 3', 'imagePath': 'assets/images/glasses3.png'},
+     
       // Add more glasses as needed
     ];
 

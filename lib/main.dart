@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:glasses_tryon/main_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -7,7 +8,6 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-import 'package:glasses_try_on/main_screen.dart'; // Import MainScreen
 
 // This widget is the root of your application.
   @override
